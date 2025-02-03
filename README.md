@@ -1,21 +1,15 @@
 # **Bearing Defect Classification Using Machine Learning**
 
-## 📌 **Project Overview**
+## **Project Overview**
 This project focuses on **predictive maintenance** for rotating machinery by classifying bearing health conditions using **machine learning models**.
 
 By leveraging **vibration data** collected from bearings under different failure conditions, the project aims to **detect and classify faults** such as:
 - **Roller failure**
 - **Inner race failure**
 - **Outer race failure**
-- **Combinations of the above failures**
+- **Combinations of the above failures** 
 
-## 🚀 **Motivation**
-Unplanned machine breakdowns can lead to **significant production losses** in manufacturing. Implementing **predictive maintenance** with AI can:
-✅ Reduce **downtime and maintenance costs**  
-✅ Increase **operational efficiency**  
-✅ Prevent **unexpected failures**  
-
-## 🛠 **Technologies Used**
+## **Technologies Used**
 - **Python**  
 - **NumPy & Pandas** – Data handling  
 - **Scikit-learn** – Machine learning models  
@@ -25,7 +19,7 @@ Unplanned machine breakdowns can lead to **significant production losses** in ma
 - **Support Vector Machines (SVM)**  
 - **Artificial Neural Networks (ANN - Multi-Layer Perceptron)**  
 
-## 🔬 **Methodology**
+## **Methodology**
 1. **Data Preprocessing**
    - Vibration signals collected using accelerometers at **50 kHz**
    - Time & frequency domain feature extraction
@@ -41,7 +35,7 @@ Unplanned machine breakdowns can lead to **significant production losses** in ma
    - Confusion matrices to assess misclassifications
    - Analysis of computational efficiency for real-time feasibility
 
-## 📊 **Results**
+## **Results**
 | Model | Accuracy |
 |--------|------------|
 | **SOM-MQE** | ~85% |
