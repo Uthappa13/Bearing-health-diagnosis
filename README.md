@@ -1,4 +1,4 @@
-# **Health Monitoring and Fault Classification of Rotating Bearings**
+# **Predictive Maintenance for Rotating Machines using Machine Learning Models**
 
 ## **Project Overview**
 This project focuses on **predictive maintenance** for rotating machinery by classifying bearing health conditions using **machine learning models**.
